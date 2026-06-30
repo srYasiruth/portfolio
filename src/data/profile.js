@@ -1,0 +1,20 @@
+export const profile = {
+  displayName: 'Sahan Yasiruth',
+  fullName: 'L.D.C.S.R. Yasiruth',
+  role: 'AI/ML Engineer',
+  headline: 'Building local-first NLP systems & multimodal AI pipelines',
+  university: 'Rajarata University of Sri Lanka',
+  github: 'https://github.com/srYasiruth',
+  linkedin: '',
+  email: '',
+  resume: '',
+  portrait: '/assets/sahan-portrait-dark.webp',
+  nav: [
+    { label: 'About', href: '#about' },
+    { label: 'Projects', href: '#projects' },
+    { label: 'Skills', href: '#skills' },
+    { label: 'Contact', href: '#contact' },
+  ],
+  focus: ['NLP', 'Multimodal AI', 'Local LLM Systems'],
+  interests: ['Graphic Design', 'Hiking', 'Singing', 'Volunteering'],
+};

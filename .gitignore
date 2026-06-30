@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.npm-cache/
+.env
+.env.*
+.DS_Store
+*.log
+.vite-server*.log
+ChatGPT Image Jun 2, 2026, 12_35_24 AM.png
+cvpbb.png

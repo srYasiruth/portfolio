@@ -5,9 +5,9 @@ export const profile = {
   headline: 'Building local-first NLP systems & multimodal AI pipelines',
   university: 'Rajarata University of Sri Lanka',
   github: 'https://github.com/srYasiruth',
-  linkedin: '',
-  email: '',
-  resume: '',
+  linkedin: 'https://www.linkedin.com/in/sahan-yasiruth-1012bb2b2',
+  email: 'sahanryasiruth01@gmail.com',
+  resume: '/assets/LDCSR_Yasiruth_CV.pdf',
   portrait: '/assets/sahan-portrait-dark.webp',
   nav: [
     { label: 'About', href: '#about' },

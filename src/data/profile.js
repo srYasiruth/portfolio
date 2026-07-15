@@ -12,6 +12,7 @@ export const profile = {
   nav: [
     { label: 'About', href: '#about' },
     { label: 'Projects', href: '#projects' },
+    { label: 'Publications', href: '#publications' },
     { label: 'Skills', href: '#skills' },
     { label: 'Contact', href: '#contact' },
   ],

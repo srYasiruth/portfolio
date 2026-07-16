@@ -24,7 +24,7 @@ export function Publications() {
     <section className="section-shell publications-section" id="publications" aria-labelledby="publications-title">
       <Reveal className="section-heading">
         <p className="terminal-kicker">$ cat publications.bib</p>
-        <h2 id="publications-title">Published research for real-world disaster response.</h2>
+        <h2 id="publications-title">Research contributions and academic publications.</h2>
       </Reveal>
 
       <Reveal className="pub-card" delay={0.08}>
